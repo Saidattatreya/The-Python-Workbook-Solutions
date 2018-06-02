@@ -3,4 +3,4 @@ length = int(input("Please enter the length of the room: "))
 
 area = width * length
 
-print("The area of the room is {}m.".format(area))
+print("The area of the room is {}m\u00b2.".format(area))
